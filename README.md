@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @eMeDeCe ... Mariangel
 - 👀 I’m interested in ... Front-end tecnology like ReactJs, Vue and Angular (in this order :)
-- 🌱 I’m currently learning ... Ux Ui
+- <3 I love disign 
+- 🌱 I’m currently learning ... IA :) 
 - 💞️ I’m looking to collaborate on ... Design and Front End projects
 - 📫 How to reach me ... 
 
